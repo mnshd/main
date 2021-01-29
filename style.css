@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #282923;
+	color: #fff;
+}
+
+.wrapper{
+	margin: 70px auto;
+	max-width: 1170px;
+	text-align: center;
+}
+
+.js{
+	color: #F4CA16;
+}
+
+h1{
+	margin-bottom: 15px;
+}
