@@ -1,0 +1,16 @@
+Uri: http://otp-mebel.tilda.ws/
+File Name: C:\Users\HomePC\Desktop\site\otp-mebel.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://otp-mebel.tilda.ws/tilda-blocks-2.12.css?t=1594811882
+File Name: C:\Users\HomePC\Desktop\site\otp-mebel.tilda.ws\tilda-blocks-2.12.css
+Content Type: text/css
+
+Uri: http://otp-mebel.tilda.ws/privacy
+File Name: C:\Users\HomePC\Desktop\site\otp-mebel.tilda.ws\privacy.html
+Content Type: text/html
+
+Uri: http://otp-mebel.tilda.ws/tilda-blocks-2.7.js?t=1594811882
+File Name: C:\Users\HomePC\Desktop\site\otp-mebel.tilda.ws\tilda-blocks-2.7.js
+Content Type: application/javascript
+
